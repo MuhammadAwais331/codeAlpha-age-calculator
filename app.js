@@ -42,5 +42,5 @@
     if (!age) return alert("Future dates are not acceptable!");
 
     output.textContent =
-      `Your age is ${age.years} years, ${age.months} months and ${age.days} days.`;
+      `your age is ${age.years} years, ${age.months} months and ${age.days} days.`;
   });
